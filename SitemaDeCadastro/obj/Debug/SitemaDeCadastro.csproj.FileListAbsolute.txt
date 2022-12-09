@@ -1,0 +1,11 @@
+E:\Curso C#\Aulas\SitemaDeCadastro\SitemaDeCadastro\obj\Debug\SitemaDeCadastro.csproj.AssemblyReference.cache
+E:\Curso C#\Aulas\SitemaDeCadastro\SitemaDeCadastro\obj\Debug\SitemaDeCadastro.csproj.SuggestedBindingRedirects.cache
+E:\Curso C#\Aulas\SitemaDeCadastro\SitemaDeCadastro\obj\Debug\SitemaDeCadastro.Form1.resources
+E:\Curso C#\Aulas\SitemaDeCadastro\SitemaDeCadastro\obj\Debug\SitemaDeCadastro.Properties.Resources.resources
+E:\Curso C#\Aulas\SitemaDeCadastro\SitemaDeCadastro\obj\Debug\SitemaDeCadastro.csproj.GenerateResource.cache
+E:\Curso C#\Aulas\SitemaDeCadastro\SitemaDeCadastro\obj\Debug\SitemaDeCadastro.csproj.CoreCompileInputs.cache
+E:\Curso C#\Aulas\SitemaDeCadastro\SitemaDeCadastro\bin\Debug\SitemaDeCadastro.exe.config
+E:\Curso C#\Aulas\SitemaDeCadastro\SitemaDeCadastro\bin\Debug\SitemaDeCadastro.exe
+E:\Curso C#\Aulas\SitemaDeCadastro\SitemaDeCadastro\bin\Debug\SitemaDeCadastro.pdb
+E:\Curso C#\Aulas\SitemaDeCadastro\SitemaDeCadastro\obj\Debug\SitemaDeCadastro.exe
+E:\Curso C#\Aulas\SitemaDeCadastro\SitemaDeCadastro\obj\Debug\SitemaDeCadastro.pdb
